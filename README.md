@@ -91,6 +91,14 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    pip install tk-tools
    ```
+3. Open the HoloScript directory
+     ```sh
+     cd HoloScript
+     ```
+4. Run HoloScript
+   ```sh
+   python3 holoscript.py
+   ```
 
 ### Executables
 
